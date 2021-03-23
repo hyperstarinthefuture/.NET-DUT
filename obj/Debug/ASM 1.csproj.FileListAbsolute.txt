@@ -1,0 +1,10 @@
+E:\demo code\.NET\ASM 1\bin\Debug\ASM 1.exe.config
+E:\demo code\.NET\ASM 1\bin\Debug\ASM 1.exe
+E:\demo code\.NET\ASM 1\bin\Debug\ASM 1.pdb
+E:\demo code\.NET\ASM 1\obj\Debug\ASM 1.csprojAssemblyReference.cache
+E:\demo code\.NET\ASM 1\obj\Debug\ASM_1.Form1.resources
+E:\demo code\.NET\ASM 1\obj\Debug\ASM_1.Properties.Resources.resources
+E:\demo code\.NET\ASM 1\obj\Debug\ASM 1.csproj.GenerateResource.cache
+E:\demo code\.NET\ASM 1\obj\Debug\ASM 1.csproj.CoreCompileInputs.cache
+E:\demo code\.NET\ASM 1\obj\Debug\ASM 1.exe
+E:\demo code\.NET\ASM 1\obj\Debug\ASM 1.pdb
